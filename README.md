@@ -30,7 +30,7 @@ Optional: pair it with a website from [build-kit](https://github.com/vinodsharma
 ## How it is organized
 
 ```
-agentic-system-kit-founder/
+ai-system-kit/
 ├── CLAUDE.md             how the system behaves + your standards
 ├── .claude/skills/       starter skills (zero API keys required)
 │
