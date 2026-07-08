@@ -1,18 +1,20 @@
-# Agentic Systems Kit (Founder Edition)
+# AI Brain Kit (founder edition)
 
-A folder of markdown, skills, and working agents that turn Claude Code or Codex into a system that runs your business. Built for founders and operators, and small teams who want AI to run like a system, not restart like a goldfish.
+A second brain that captures from your meetings, Slack, email, and docs, organizes itself, and hands you the right context when you ask. A folder of markdown, skills, and working agents that runs on Claude Code or Codex. Built for founders and operators who want their business to have a memory, not restart like a goldfish every session.
 
-Every session with a raw AI tool starts from zero: you re-explain your business, your context, your processes, every single time. This fixes that. Your context is captured once and the system remembers so you do not have to.
+Every session with a raw AI tool starts from zero: you re-explain your business, your context, your decisions, every single time. This fixes that. Your context and knowledge are captured once and the brain remembers, so you do not have to.
 
 This is a system, not an app. No cloud, no database, no account, no API keys. Everything lives on your disk. You open this folder in Claude Code (or Codex) and start talking.
 
+Guided walkthrough with the setup prompts: **[vinodsharma.ai/ai-brain-kit](https://vinodsharma.ai/ai-brain-kit)**. When you are ready for agents that act on what the brain knows, that is Level 2, the [Agentic System Kit](https://vinodsharma.ai/agentic-system-kit).
+
 ## Quick start
 
-Clone the repo, open it in Claude Code, and say **"set up my system."** Everything after that is a conversation.
+Clone the repo, open it in Claude Code, and say **"set up my brain."** Everything after that is a conversation.
 
 1. Get your own copy of this folder (Use this template on GitHub, or copy the folder).
-2. Keep it **private**. Your system will hold your real context, customers, plans, and standards.
-3. Open it and say: **"set up my system"**.
+2. Keep it **private**. Your brain will hold your real context, customers, plans, and standards.
+3. Open it and say: **"set up my brain"**.
 4. Answer a few minutes of questions. The system fills in `_context/` (what your business is, who it serves, how you write, how you do things).
 5. Done. Drop things in `inbox/`, ask for a daily log, draft a post, brief yourself before a call.
 
@@ -30,7 +32,7 @@ Optional: pair it with a website from [build-kit](https://github.com/vinodsharma
 ## How it is organized
 
 ```
-ai-system-kit/
+ai-brain-kit/
 ├── CLAUDE.md             how the system behaves + your standards
 ├── .claude/skills/       starter skills (zero API keys required)
 │
@@ -57,7 +59,7 @@ All of these work with zero API keys, zero MCP servers, zero setup:
 
 | Say this | Skill | What happens |
 |---|---|---|
-| "set up my system" | system-setup | First-session interview, fills `_context/` |
+| "set up my brain" | system-setup | First-session interview, fills `_context/` |
 | "process my inbox" | inbox-triage | Routes everything in `inbox/` to the right home |
 | "ingest this" / "query the wiki" | wiki | Turns raw/ sources into linked knowledge pages |
 | "daily log" / "start my day" | daily-log | Creates today's log, captures wins and next steps |

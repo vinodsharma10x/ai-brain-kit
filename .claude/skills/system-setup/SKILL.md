@@ -1,6 +1,6 @@
 ---
 name: system-setup
-description: First-session onboarding interview that fills _context/ with the founder or operator's business, product, customers, voice, goals, and standards. Triggers on - set up my system, setup system, system setup, onboard me, start here, interview me, getting started.
+description: First-session onboarding interview that fills _context/ with the founder or operator's business, product, customers, voice, goals, and standards. Triggers on - set up my brain, set up my system, setup system, system setup, onboard me, start here, interview me, getting started.
 ---
 
 # System setup
