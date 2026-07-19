@@ -1,4 +1,4 @@
-# AI Brain Kit (founder edition)
+# Agentic Brain Kit (founder edition)
 
 A second brain that captures from your meetings, Slack, email, and docs, organizes itself, and hands you the right context when you ask. A folder of markdown, skills, and working agents that runs on Claude Code or Codex. Built for founders and operators who want their business to have a memory, not restart like a goldfish every session.
 
@@ -6,7 +6,7 @@ Every session with a raw AI tool starts from zero: you re-explain your business,
 
 This is a system, not an app. No cloud, no database, no account, no API keys. Everything lives on your disk. You open this folder in Claude Code (or Codex) and start talking.
 
-Guided walkthrough with the setup prompts: **[vinodsharma.ai/ai-brain-kit](https://vinodsharma.ai/ai-brain-kit)**. When you are ready for agents that act on what the brain knows, that is Level 2, the [Agentic System Kit](https://vinodsharma.ai/agentic-system-kit).
+Guided walkthrough with the setup prompts: **[vinodsharma.ai/agentic-brain-kit](https://vinodsharma.ai/agentic-brain-kit)**. When you are ready for agents that act on what the brain knows, that is Level 2, the [Agentic System Kit](https://vinodsharma.ai/agentic-system-kit).
 
 ## Quick start
 
@@ -32,7 +32,7 @@ Optional: pair it with a website from [build-kit](https://github.com/vinodsharma
 ## How it is organized
 
 ```
-ai-brain-kit/
+agentic-brain-kit/
 ├── CLAUDE.md             how the system behaves + your standards
 ├── .claude/skills/       starter skills (zero API keys required)
 │

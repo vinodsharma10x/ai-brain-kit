@@ -1,9 +1,9 @@
 # AGENTS.md
 
-This repo is **AI Brain Kit (founder edition)**, a second brain that captures from your meetings, Slack, email, and docs, organizes itself, and hands you the right context when you ask. Working instructions for the AI live in **CLAUDE.md**. Start there.
+This repo is **Agentic Brain Kit (founder edition)**, a second brain that captures from your meetings, Slack, email, and docs, organizes itself, and hands you the right context when you ask. Working instructions for the AI live in **CLAUDE.md**. Start there.
 
 System docs:
-- `README.md` - what AI Brain Kit is, quick start, the folder map, the starter skills
+- `README.md` - what Agentic Brain Kit is, quick start, the folder map, the starter skills
 - `CLAUDE.md` - how the system behaves, folder semantics, and the user's standards
 - `docs/getting-started.md` - first-session setup and what to say next
 - `.claude/skills/` - the starter skills: `system-setup`, `wiki`, `inbox-triage`, `daily-log`, `weekly-review`, `content-draft`, `person-update`, `new-project`

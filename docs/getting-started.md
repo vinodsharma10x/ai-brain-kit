@@ -1,6 +1,6 @@
 # Getting started
 
-AI Brain Kit is a second brain for your business. It captures from your meetings, Slack, email, and docs, organizes itself, and hands you the right context when you ask. It runs on Claude Code or Codex, on your own machine.
+Agentic Brain Kit is a second brain for your business. It captures from your meetings, Slack, email, and docs, organizes itself, and hands you the right context when you ask. It runs on Claude Code or Codex, on your own machine.
 
 ## Set it up (a few minutes)
 
@@ -34,4 +34,4 @@ The full list of skills is in the `README.md` and in `.claude/skills/`.
 
 ## Level 2
 
-AI Brain Kit is the brain layer. It remembers. When you are ready for agents that act on what it knows, workflows that run while you sleep, and skills that execute across your tools, that is the [Agentic System Kit](https://vinodsharma.ai/agentic-system-kit).
+Agentic Brain Kit is the brain layer. It remembers. When you are ready for agents that act on what it knows, workflows that run while you sleep, and skills that execute across your tools, that is the [Agentic System Kit](https://vinodsharma.ai/agentic-system-kit).
